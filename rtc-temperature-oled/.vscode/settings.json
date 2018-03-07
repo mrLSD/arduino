@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/evgeny/.platformio/penv/bin:/home/evgeny/.platformio/penv:/home/evgeny/.cargo/bin:/home/evgeny/d/dev/quartus/bin/:/home/evgeny/Komodo-IDE-10/bin:/home/evgeny/.local/bin:/home/evgeny/.cargo/bin:/home/evgeny/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/evgeny/go/bin:/home/evgeny/nim/bin:~/.platformio/penv/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
